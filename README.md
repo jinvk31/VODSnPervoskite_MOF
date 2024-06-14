@@ -1,2 +1,2 @@
-# VODSnPervoskite_MOF
-2024Spring
+# 
+2024 봄학기 재료종합설계 1조 
