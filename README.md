@@ -2,6 +2,7 @@
 2024 봄학기 재료종합설계 1조 
 
 ## High-throughput screening to narrow-down MOF candidates from qmof database   
+*database from https://github.com/Andrew-S-Rosen/QMOF*  
 
 <img width="1096" alt="Screenshot 2024-06-14 at 21 49 47" src="https://github.com/jinvk31/VODSnPervoskite_MOF/assets/149242052/acee3802-d5a3-46fb-a0c4-dfe2cee30e5c">  
 
