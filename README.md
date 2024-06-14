@@ -11,7 +11,7 @@
 <img width="843" alt="Screenshot 2024-06-14 at 21 50 33" src="https://github.com/jinvk31/VODSnPervoskite_MOF/assets/149242052/80d5b23d-1b4a-4e2d-93ca-bd247669367c">  
 
 
-original data,  
+(originally)
 
 <img width="389" alt="Screenshot 2024-06-14 at 21 50 46" src="https://github.com/jinvk31/VODSnPervoskite_MOF/assets/149242052/109a4397-0b6e-4195-837e-744da86a3759">  
 
