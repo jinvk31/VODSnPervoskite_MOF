@@ -7,5 +7,12 @@
 
 ## Re-implementing data from previous paper to provide more convenient comparision with our objectives
 
-<img width="366" alt="Screenshot 2024-06-14 at 21 46 54" src="https://github.com/jinvk31/VODSnPervoskite_MOF/assets/149242052/43a1cabd-9c60-463e-b918-bd4c8fa97464">  
+
+<img width="843" alt="Screenshot 2024-06-14 at 21 50 33" src="https://github.com/jinvk31/VODSnPervoskite_MOF/assets/149242052/80d5b23d-1b4a-4e2d-93ca-bd247669367c">  
+
+
+
+
+A. Liu et al., Cell Rep. Phys. Sci. 3, 100812 (2022)  
+
 
