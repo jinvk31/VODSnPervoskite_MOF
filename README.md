@@ -1,5 +1,5 @@
 # Doping VOD Sn PeFET with Reusable MOF Filter: Minimizing Trade-off between Mobility and Bulk Doping   
-2024 봄학기 재료종합설계 1조 
+
 
 ## High-throughput screening to narrow-down MOF candidates from qmof database   
 *database from https://github.com/Andrew-S-Rosen/QMOF*  
